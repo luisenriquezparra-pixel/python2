@@ -1,6 +1,7 @@
 ---
 tags:
 ---
+s
 
 **FASE 1: Lógica Python**
 
