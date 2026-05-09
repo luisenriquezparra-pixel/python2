@@ -8,5 +8,5 @@
 - **¿[[Qué reglas de sintaxis tiene]]?** (Cómo se escribe sin que rompa).  
 - **¿[[Qué error da si falla]]?** (Comportamiento ante bugs o excepciones).  
 - **¿[[Qué memoria ocupa]]?** (Uso de recursos y eficiencia).  
-- **¿[[Qué lo diferencia de [X]]]?** (Contraste con conceptos similares).  
+- **¿[[Qué lo diferencia de (X)]]?** (Contraste con conceptos similares).  
 - **¿[[Qué soluciona]]?**  (Su utilidad real en la arquitectura).  
