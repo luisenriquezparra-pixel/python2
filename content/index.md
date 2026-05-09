@@ -1,3 +1,8 @@
+# Mi Proyecto
+Haz clic aquí para ver el mapa interactivo: [[mi-mapa]]
+
+
+
 ---
 title: "#Vida como programador"
 ---
