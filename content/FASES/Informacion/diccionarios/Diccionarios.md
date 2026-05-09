@@ -1,0 +1,12 @@
+- **¿[[Qué es]]?** (Definición técnica y analogía).  
+- **¿[[Qué guarda]]?** (Tipo de dato, estado o valor).  
+- **¿[[Qué recibe]]?** (Inputs, parámetros o argumentos).  
+- **¿[[Qué hace]]?** (La lógica o proceso que ejecuta).  
+- **¿[[Qué devuelve]]?** (Output o valor de retorno).  
+- **¿[[Qué alcance tiene]]?** (Scope: en qué parte del código es visible).  
+- **¿[[Qué lo dispara]]?** (Evento o llamada que lo activa).  
+- **¿[[Qué reglas de sintaxis tiene]]?** (Cómo se escribe sin que rompa).  
+- **¿[[Qué error da si falla]]?** (Comportamiento ante bugs o excepciones).  
+- **¿[[Qué memoria ocupa]]?** (Uso de recursos y eficiencia).  
+- **¿[[Qué lo diferencia de (X)]]?** (Contraste con conceptos similares).  
+- **¿[[Qué soluciona]]?**  (Su utilidad real en la arquitectura).  

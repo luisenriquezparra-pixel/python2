@@ -1,79 +1,13 @@
 • **[[Variables]]**  
 
-• Listas  
-- **¿Qué es?** (Definición técnica y analogía).  
-- **¿Qué guarda?** (Tipo de dato, estado o valor).  
-- **¿Qué recibe?** (Inputs, parámetros o argumentos).  
-- **¿Qué hace?** (La lógica o proceso que ejecuta).  
-- **¿Qué devuelve?** (Output o valor de retorno).  
-- **¿Qué alcance tiene?** (Scope: en qué parte del código es visible).  
-- **¿Qué lo dispara?** (Evento o llamada que lo activa).  
-- **¿Qué reglas de sintaxis tiene?** (Cómo se escribe sin que rompa).  
-- **¿Qué error da si falla?** (Comportamiento ante bugs o excepciones).  
-- **¿Qué memoria ocupa?** (Uso de recursos y eficiencia).  
-- **¿Qué lo diferencia de [X]?** (Contraste con conceptos similares).  
-- **¿Qué soluciona?**  (Su utilidad real en la arquitectura).  
-• Diccionarios  
-- **¿Qué es?** (Definición técnica y analogía).  
-- **¿Qué guarda?** (Tipo de dato, estado o valor).  
-- **¿Qué recibe?** (Inputs, parámetros o argumentos).  
-- **¿Qué hace?** (La lógica o proceso que ejecuta).  
-- **¿Qué devuelve?** (Output o valor de retorno).  
-- **¿Qué alcance tiene?** (Scope: en qué parte del código es visible).  
-- **¿Qué lo dispara?** (Evento o llamada que lo activa).  
-- **¿Qué reglas de sintaxis tiene?** (Cómo se escribe sin que rompa).  
-- **¿Qué error da si falla?** (Comportamiento ante bugs o excepciones).  
-- **¿Qué memoria ocupa?** (Uso de recursos y eficiencia).  
-- **¿Qué lo diferencia de [X]?** (Contraste con conceptos similares).  
-- **¿Qué soluciona?**  (Su utilidad real en la arquitectura).  
-• Condicionales  
-- **¿Qué es?** (Definición técnica y analogía).  
-- **¿Qué guarda?** (Tipo de dato, estado o valor).  
-- **¿Qué recibe?** (Inputs, parámetros o argumentos).  
-- **¿Qué hace?** (La lógica o proceso que ejecuta).  
-- **¿Qué devuelve?** (Output o valor de retorno).  
-- **¿Qué alcance tiene?** (Scope: en qué parte del código es visible).  
-- **¿Qué lo dispara?** (Evento o llamada que lo activa).  
-- **¿Qué reglas de sintaxis tiene?** (Cómo se escribe sin que rompa).  
-- **¿Qué error da si falla?** (Comportamiento ante bugs o excepciones).  
-- **¿Qué memoria ocupa?** (Uso de recursos y eficiencia).  
-- **¿Qué lo diferencia de [X]?** (Contraste con conceptos similares).  
-- **¿Qué soluciona?**  (Su utilidad real en la arquitectura).  
-• Bucles  
-- **¿Qué es?** (Definición técnica y analogía).  
-- **¿Qué guarda?** (Tipo de dato, estado o valor).  
-- **¿Qué recibe?** (Inputs, parámetros o argumentos).  
-- **¿Qué hace?** (La lógica o proceso que ejecuta).  
-- **¿Qué devuelve?** (Output o valor de retorno).  
-- **¿Qué alcance tiene?** (Scope: en qué parte del código es visible).  
-- **¿Qué lo dispara?** (Evento o llamada que lo activa).  
-- **¿Qué reglas de sintaxis tiene?** (Cómo se escribe sin que rompa).  
-- **¿Qué error da si falla?** (Comportamiento ante bugs o excepciones).  
-- **¿Qué memoria ocupa?** (Uso de recursos y eficiencia).  
-- **¿Qué lo diferencia de [X]?** (Contraste con conceptos similares).  
-- **¿Qué soluciona?**  (Su utilidad real en la arquitectura).  
-• Funciones  
-- **¿Qué es?** (Definición técnica y analogía).  
-- **¿Qué guarda?** (Tipo de dato, estado o valor).  
-- **¿Qué recibe?** (Inputs, parámetros o argumentos).  
-- **¿Qué hace?** (La lógica o proceso que ejecuta).  
-- **¿Qué devuelve?** (Output o valor de retorno).  
-- **¿Qué alcance tiene?** (Scope: en qué parte del código es visible).  
-- **¿Qué lo dispara?** (Evento o llamada que lo activa).  
-- **¿Qué reglas de sintaxis tiene?** (Cómo se escribe sin que rompa).  
-- **¿Qué error da si falla?** (Comportamiento ante bugs o excepciones).  
-- **¿Qué memoria ocupa?** (Uso de recursos y eficiencia).  
-- **¿Qué lo diferencia de [X]?** (Contraste con conceptos similares).  
-- **¿Qué soluciona?**  (Su utilidad real en la arquitectura).  
-• Manejo de Errores  
-- **¿Qué es un error?** (Diferencia entre error de sintaxis, de lógica y en tiempo de ejecución).  
-- **¿Qué lo causa?** (El origen: input inválido, fallo de red, archivo no encontrado).  
-- **¿Qué es una excepción?** (El objeto que se genera cuando algo sale mal).  
-- **¿Qué código es "peligroso"?** (Qué bloque debe ir dentro del `try`).  
-- **¿Qué errores específicos capturo?** (Qué tipos de excepciones me interesan y cuáles ignoro).  
-- **¿Qué hace el programa si no se captura el error?** (El comportamiento por defecto o "crash").  
-- **¿Qué información da el error?** (Qué dice el mensaje de error y el _stack trace_).  
-- **¿Qué recursos deben liberarse?** (Qué debe ir en el `finally`, como cerrar bases de datos).  
-- **¿Qué es propagar un error?** (Qué pasa cuando lanzas el error hacia arriba con `throw`).  
-- **¿Qué alternativa le doy al usuario?** (Qué mensaje o acción de respaldo se ejecuta).  
-- **¿Qué se registra en los logs?** (Qué datos guardo para poder arreglarlo después).  
+• **[[Listas]]**  
+
+• **[[Diccionarios]]**  
+
+• **[[Condicionales]]**  
+
+• **[[Bucles]]**  
+
+• **[[Funciones]]**  
+
+• **[[Manejo de Errores]]**  
