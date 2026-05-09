@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2d15a4fa2cf86854","x":-144,"y":43,"width":250,"height":60,"type":"text","text":"[[Programacion]]\n"},
+		{"id":"b548f8a6c188b0ef","x":-144,"y":160,"width":250,"height":60,"type":"text","text":"talcosa"}
+	],
+	"edges":[
+		{"id":"b5a07df98051d395","fromNode":"b548f8a6c188b0ef","fromSide":"top","toNode":"2d15a4fa2cf86854","toSide":"bottom"}
+	]
+}
