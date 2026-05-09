@@ -1,0 +1,37 @@
+/* ========= OBSIDIAN + PAGINA ========= */
+
+/* PAGINA WEB */
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 1.8;
+}
+
+/* Texto pagina */
+p {
+    text-align: justify;
+    text-indent: 2em;
+    margin-bottom: 1.2em;
+}
+
+/* ========= OBSIDIAN ========= */
+
+/* Modo lectura */
+.markdown-preview-view p {
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.8;
+    margin-bottom: 1.2em;
+}
+
+/* Modo edición */
+.markdown-source-view.mod-cm6 .cm-line {
+    text-align: justify;
+    line-height: 1.8;
+}
+
+/* Espaciado general */
+.markdown-source-view.mod-cm6 .cm-content {
+    padding-left: 20px;
+    padding-right: 20px;
+}
