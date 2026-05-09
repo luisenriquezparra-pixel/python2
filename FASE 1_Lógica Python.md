@@ -1,0 +1,1 @@
+Variables • Listas • Diccionarios • Condicionales • Bucles • Funciones • Manejo de Errores
