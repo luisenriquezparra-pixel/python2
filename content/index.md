@@ -1,11 +1,7 @@
-# Mi Proyecto
-Haz clic aquí para ver el mapa interactivo: [[mi-mapa]]
-
-
-
 ---
-title: "#Vida como programador"
+tags:
 ---
+
 **FASE 1: Lógica Python**
 
 Variables • Listas • Diccionarios • Condicionales • Bucles • Funciones • Manejo de Errores
