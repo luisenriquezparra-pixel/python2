@@ -1,6 +1,3 @@
----
-tags:
----
 
 **[[FASE 1_Lógica Python]]**  
 **[[FASE 2_Desarrollo API]]**  
