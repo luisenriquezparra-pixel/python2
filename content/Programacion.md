@@ -10,3 +10,5 @@ y la programacion usa, pues los lenguajes de programacion (python, java, c++, et
 todo idioma este tiene una sintaxis y una semantica; la sintaxis es 
 la forma de estructurar lineas o oraciones y la semantica es el significado de cada palabra usada en 
 la sintaxis. la programacion crea aplicaciones, software o soluciones a problemas.
+
+a
