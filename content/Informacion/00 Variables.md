@@ -1,5 +1,14 @@
 # Variables 
-Las variables son espacios en la memoria fisica de una computadora, sirven para guardar y recuperar datos, ya sean números enteros, números con decimales, texto o booleanos (true/false). Las variables contienen datos o valores que pueden cambiar durante la ejecución de un programa. 
+$```$PythonLas variables son espacios en la memoria fisica de una computadora, sirven para guardar y recuperar datos, ya sean números enteros, números con decimales, texto o booleanos (true/false). Las variables contienen datos o valores que pueden cambiar durante la ejecución de un programa.
+
+```run-python
+def hello(name):
+print("Hello", name)
+
+    if __name__ == "__main__":
+        hello("Eve")
+````
+
 
 ## Existen 4 tipos de variables: 
 
