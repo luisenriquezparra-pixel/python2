@@ -1,4 +1,4 @@
-# Variables 
+# Variables A
 Las variables son espacios en la memoria fisica de una computadora, sirven para guardar y recuperar datos, ya sean números enteros, números con decimales, texto o booleanos (true/false). Las variables contienen datos o valores que pueden cambiar durante la ejecución de un programa.
 
 ## Existen 4 tipos de variables: 
