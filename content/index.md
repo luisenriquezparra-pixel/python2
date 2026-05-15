@@ -8,6 +8,10 @@
 **[[FASE 3_Monetización]]**  
 **[[FASE 4_Dominio Roblox]]**  
 
+NO VOY A ELIMINAR ESTO PORQUE HAY PARTE DE PROYECTO QUE QUIERO APRENDER
+
+
+
 
 # 🧠 Método 80/20 para Aprender Programación
 
