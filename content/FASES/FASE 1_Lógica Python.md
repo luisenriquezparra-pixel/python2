@@ -4,5 +4,5 @@
 • **[[03 Condicionales]]**  
 • **[[04 Bucles]]**  
 • **[[05 Funciones]]**  
-• **[[Bloque de codigo]]**
-• **[[06 Manejo de Errores]]**  
+• **[[06 Bloque de codigo]]**
+• **[[07 Manejo de Errores]]**  
