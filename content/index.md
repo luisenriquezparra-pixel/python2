@@ -2,6 +2,7 @@
 
 **La practica constante y sin IA te haran mejor que la mayoria de programadores**
 
+[[80/20]]
 
 **[[FASE 1_Lógica Python]]**  
 **[[FASE 2_Desarrollo API]]**  
@@ -9,6 +10,19 @@
 **[[FASE 4_Dominio Roblox]]**  
 
 NO VOY A ELIMINAR ESTO PORQUE HAY PARTE DE PROYECTO QUE QUIERO APRENDER
+
+cosas para hacer todos los dias
+
+- teoría → entiendes conceptos
+- ejercicios → desarrollas lógica
+- proyectos → aprendes a construir
+- debugging → aprendes a analizar
+- leer código → aprendes patrones y estructura
+- repetir → automatizas habilidades
+
+el aprendizaje fuerte viene de
+
+dificultad + repetición + consistencia
 
 
 
