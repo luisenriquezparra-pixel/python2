@@ -2,7 +2,7 @@
 
 **La practica constante y sin IA te haran mejor que la mayoria de programadores**
 
-[[80/20]]
+[[20]]
 
 **[[FASE 1_Lógica Python]]**  
 **[[FASE 2_Desarrollo API]]**  
